@@ -4,11 +4,10 @@
 
 class Blog
 
-  def Course Curriculum 
-    puts "Course Curriculum , #{@name}!"
+def blog = Course Curriculum.new url
+puts Course Curriculum
 end
 end
-
 
 
 
