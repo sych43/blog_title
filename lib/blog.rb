@@ -4,10 +4,10 @@
 
 class Blog
 
-def blog = Course Curriculum.new url
-puts Course Curriculum
+def initialize new_url
+     @url = new_url 
 end
 end
 
 
-
+ 
